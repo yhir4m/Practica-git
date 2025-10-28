@@ -1,2 +1,2 @@
 #Hola
-Esta es mi primera practica con Git.
+Esta es mi primera practica
